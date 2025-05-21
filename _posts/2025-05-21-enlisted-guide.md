@@ -1,6 +1,5 @@
 ---
 title: Enlisted Guide
-excerpt: "Top tips for Enlisted "
 date: 2025-05-21T22:07:00.000Z
 author:
   name: SproutBox Gaming
