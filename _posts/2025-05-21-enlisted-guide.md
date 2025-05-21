@@ -4,7 +4,7 @@ date: 2025-05-21T22:07:00.000Z
 ---
 All the top tips for Enlisted on xbox series X and PS5.
 
-The best weapons, especiallyon defensive maps, are probably not what you think. Is it the Condors MG, the Browning A6 or T20 rifle?
+The best weapons, especially on defensive maps, are probably not what you think. Is it the Condors MG, the Browning A6 or T20 rifle?
 
 All good choices but the most powerful 3 weapons in terms of actually winning the game are as follows -
 
