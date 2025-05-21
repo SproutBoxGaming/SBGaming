@@ -1,7 +1,10 @@
 ---
+
 title: Enlisted
 date: 2025-05-21T22:07:00.000Z
 ---
+![Hell Let Loose](/public/assets/Hell-let-loose.jpg)
+
 All the top tips for Enlisted on xbox series X and PS5.
 
 The best weapons, especially on defensive maps, are probably not what you think. Is it the Condors MG, the Browning A6 or T20 rifle?
