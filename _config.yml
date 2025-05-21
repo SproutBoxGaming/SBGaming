@@ -1,3 +1,22 @@
 title: SproutBox Gaming
 description: Xbox Game Reviews and Guides
 theme: minima
+
+title: SproutBox Gaming
+description: Xbox Game Reviews and Guides
+theme: minima
+
+include:
+  - assets
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/custom.css"
+
+
