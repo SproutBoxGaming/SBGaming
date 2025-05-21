@@ -10,13 +10,6 @@ The best weapons, especiallyon defensive maps, are probably not what you think. 
 
 All good choices but the most powerful 3 weapons in terms of actually winning the game are as follows -
 
-*   Engineers hammer
-    
-*   Barbed wire
-    
-*   Spotting or "pinging" system
-    
-
 Let's look at each one in more detail and show how these strange choices will actually help you to win any game of enlisted more than the best assault rifle, LMG or Tank would.
 
 ### Engineers hammer
