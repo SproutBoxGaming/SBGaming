@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Enlisted Guide
 excerpt: "Top tips for Enlisted "
 date: 2025-05-21T22:07:00.000Z
 author:
   name: SproutBox Gaming
-  picture: /assets/Hell-feature.jpg
 ---
 All the top tips for Enlisted on xbox series X and PS5.
 
