@@ -5,6 +5,7 @@ theme: minima
 # Include custom CSS from assets folder
 include:
   - assets
+  - public
 
 sass:
   style: compressed
