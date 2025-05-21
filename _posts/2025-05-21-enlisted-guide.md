@@ -23,8 +23,6 @@ Let's look at each one in more detail and show how these strange choices will ac
 
 The hammer used by the engineer is a key piece of kit. No you can't physically hit people with it unfortunately. But what you can do is use it to create machine gun nests, rally points bringing the whole army to the enemy's doorstep and most importantly, creating the single most deadly weapon in the game.
 
-![](/assets/Hell-feature.jpg)
-
 ### Barbed wire
 
 This will win a defensive game with only one piece placed, if you pick the right spot.
