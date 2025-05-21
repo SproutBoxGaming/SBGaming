@@ -1,7 +1,9 @@
 body {
   background-color: #f0e68c; /* khaki */
   color: #222;
-  font-family: sans-serif;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
 }
 
 a {
@@ -9,16 +11,23 @@ a {
 }
 
 .site-title, .site-header {
-  background-color: #333;
+  background-color: #111;
   color: #f0e68c;
+  padding: 10px;
 }
 
 .site-nav {
-  background-color: #111;
+  background-color: #222;
 }
 
 .site-nav a {
   color: #32cd32;
 }
 
+h1, h2, h3 {
+  color: #111;
+}
 
+.post {
+  margin-bottom: 40px;
+}
