@@ -2,21 +2,17 @@ title: SproutBox Gaming
 description: Xbox Game Reviews and Guides
 theme: minima
 
-title: SproutBox Gaming
-description: Xbox Game Reviews and Guides
-theme: minima
-
+# Include custom CSS from assets folder
 include:
   - assets
 
 sass:
   style: compressed
 
+# Set defaults to load the custom CSS
 defaults:
   -
     scope:
       path: ""
     values:
       css: "/assets/custom.css"
-
-
