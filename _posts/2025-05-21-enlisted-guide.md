@@ -1,8 +1,6 @@
 ---
 title: Enlisted Guide
 date: 2025-05-21T22:07:00.000Z
-author:
-  name: SproutBox Gaming
 ---
 All the top tips for Enlisted on xbox series X and PS5.
 
