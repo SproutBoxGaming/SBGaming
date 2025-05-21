@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SproutBox Gaming Blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>SproutBox Gaming</h1>
+    <p>Your source for Xbox reviews, guides & more.</p>
+  </header>
+
+  <main id="posts">
+    <!-- Blog posts will load here -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SproutBox Gaming</p>
+  </footer>
+
+  <script>
+    async function loadPosts() {
+      const postsContainer = document.getElementById('posts');
+      try {
+        const response = await fetch('./_posts/');
+        const text = await response.text();
+        const files = [...text.matchAll(/href="(.*?\.md)"/g)].map(match => match[1]);
+
+        if (files.length === 0) {
+          postsContainer.innerHTML = "<p>No blog posts found.</p>";
+          return;
+        }
+
+        postsContainer.innerHTML = files.map(file => `
+          <div class="post-link">
+            <a href="_posts/${file}">${file.replace('.md', '').replace(/-/g, ' ')}</a>
+          </div>
+        `).join('');
+      } catch (error) {
+        postsContainer.innerHTML = "<p>Error loading posts.</p>";
+      }
+    }
+
+    loadPosts();
+  </script>
+</body>
+</html>
