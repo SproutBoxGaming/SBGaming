@@ -2,7 +2,7 @@
 
 title: Enlisted
 date: 2025-05-21T22:07:00.000Z
-image: /public/assets/Hell-let-loose.jpg
+picture: /public/assets/Hell-let-loose.jpg
 ---
 ![Hell Let Loose](/public/assets/Hell-let-loose.jpg)
 
