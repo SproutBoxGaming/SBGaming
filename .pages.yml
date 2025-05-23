@@ -1,5 +1,5 @@
 media:
-  input: public/assets
+  input: /public/assets
   output: /assets
   categories: [ "image" ]
 content:
