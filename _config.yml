@@ -1,8 +1,20 @@
 title: SproutBox Gaming
-description: Xbox Game Reviews and Guides
+description: Game Reviews, Guides & More
 theme: minima
 
+collections:
+  posts:
+    output: true
+    permalink: /:title/
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+include:
+  - public
+
+
