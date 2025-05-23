@@ -1,6 +1,6 @@
 title: SproutBox Gaming
 description: Xbox Game Reviews and Guides
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 
 
 plugins:
