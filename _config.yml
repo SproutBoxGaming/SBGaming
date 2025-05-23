@@ -16,4 +16,4 @@ defaults:
     scope:
       path: ""
     values:
-      css: "/assets/custom.css"
+      css: "/ass     ets/custom.css"
