@@ -2,9 +2,10 @@
 
 title: Enlisted
 date: 2025-05-21T22:07:00.000Z
-picture: /public/assets/Hell-let-loose.jpg
+picture: /assets/Hell-let-loose.jpg
 ---
-![Hell Let Loose](/public/assets/Hell-let-loose.jpg)
+
+![Alt text](/assets/hell-feature.jpg)
 
 All the top tips for Enlisted on xbox series X and PS5.
 
