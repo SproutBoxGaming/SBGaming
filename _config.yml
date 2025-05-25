@@ -1,8 +1,14 @@
 title: SproutBox Gaming
 description: Game Reviews, Guides & More
+url: "https://sproutbox-gaming.com"
+baseurl: "" # root path
+
 theme: minima
 
-  
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 collections:
   posts:
     output: true
@@ -17,5 +23,7 @@ defaults:
 
 include:
   - public
+  - assets
+
 
 
