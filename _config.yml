@@ -1,9 +1,7 @@
 title: SproutBox Gaming
 description: Game Reviews, Guides & More
+theme: cayman
 
-remote_theme: pages-themes/cayman
-plugins:
-  - jekyll-remote-theme
   
 collections:
   posts:
